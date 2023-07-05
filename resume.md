@@ -50,7 +50,7 @@ navigation_weight: 2
 
 ## Experience
 ---
-#### Undergraduate Resaerch @ NYU
+#### Undergraduate Research @ NYU
 ##### New York University Courant Institute of Mathematical Science &emsp; (Sep 2022 - Present)
  - Advised by [Aahlad Puli](https://aahladmanas.github.io/) and worked on interesting topics in 
  Probablistic Machine Learning such as **Spurious Correlation** and **Distributed Robust Optimization**.
@@ -61,7 +61,7 @@ navigation_weight: 2
 #### Summer Research Internship @ Tufts
 ##### Tufts University T-TRIPODS &emsp;(Jun 2023 - Aug 2023)
  - Worked at the [Assistive Agent Behavior and Learning Lab](https://aabl.cs.tufts.edu/) and mentored by [Prof. Elaine Short](https://engineering.tufts.edu/cs/people/faculty/elaine-short)
- * Carried out a research project on developing innovative solutions for social robots navigations and companion following robots.
+ * Carried out a research project on developing innovative solutions for social robots navigation and companion following robots.
  * Designed a workflow that includes data collection from sensors, data processing in **Python**, model training using **PyTorch**, and robot programming with **ROS**.
 {: .message }
 
@@ -76,12 +76,11 @@ navigation_weight: 2
 {: .message }
 
 #### Summer Research Program @ NYU
-##### New York University Courant Instite of Mathematical Sciences <br>(Jun 2022 - Aug 2022)
- * Parcipated in intensive research training on fundamental concepts in AI and Machine Learning
- * Developed practical skills with **scikit-learn**, **TensorFlow**, and **PyTorch** by implementing
- techniques like random forest classification, backpropagation, and k-clustering.
- * Shadowed over multiple research labs in diverse topics such as **Natural Language Processing** and
- **Intepretable Machine Learning**.
+##### New York University Courant Institute of Mathematical Sciences <br>(Jun 2022 - Aug 2022)
+ * Participated in intensive research training on fundamental concepts in AI and Machine Learning
+ * Developed practical skills with **Scikit-learn**, **TensorFlow**, and **PyTorch** by implementing
+ techniques like random forest classification, back propagation, and k-clustering.
+ * Shadowed over multiple research labs in diverse topics such as **Natural Language Processing** and **Interpretable Machine Learning**.
 {: .message }
 
 #### Software Developing Project @ Munative
