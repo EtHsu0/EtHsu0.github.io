@@ -8,3 +8,9 @@
 {"rule":"WHITESPACE_RULE","sentence":"^\\QSummer Research Internship @ Tufts\nTufts University T-TRIPODS  (Jun 2023 - Aug 2023)\nWorked at the Assistive Agent Behavior and Learning Lab and mentored by Prof. Elaine Short\nCarried out a research project on developing innovative solutions for social robots navigation and companion following robots.\\E$"}
 {"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QTeaching Assistant @ Tufts\nTufts University Department of Computer Science (Sep 2022 - Aug 2023)\nSole Teaching Assistant for Database Systems (Summer 2023) and Database Systems for master students (Spring 2023).\\E$"}
 {"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QSoftware Developing Project @ Munative\nMunative Team\nWorked with a small team dedicated to build conference tools that support features such as audience display and voting systems.\\E$"}
+{"rule":"WHITESPACE_RULE","sentence":"^\\QUndergraduate Research @ NYU\nNew York University Courant Institute of Mathematical Science   (Sep 2022 - Present)\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QAdvised by Aahlad Puli and worked on interesting topics in Probablistic Machine Learning such as Spurious Correlation and Distributed Robust Optimization.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QSummer Research Internship @ Tufts\nTufts University T-TRIPODS  (Jun 2023 - Aug 2023)\\E$"}
+{"rule":"WHITESPACE_RULE","sentence":"^\\QSummer Research Internship @ Tufts\nTufts University T-TRIPODS  (Jun 2023 - Aug 2023)\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QTeaching Assistant @ Tufts\nTufts University Department of Computer Science (Sep 2022 - Aug 2023)\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QSoftware Developing Project @ Munative\nMunative Team\\E$"}

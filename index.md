@@ -8,8 +8,12 @@ navigation_weight: 1
 
 I am a Junior studying in <span id="index_major" style="text-decoration:underline">Computer Science</span>.
 
-I generally enjoy learning new things, so I make websites to keep track of them.
-You can find my web [Resume](/resume) here. I will be updating this website frequently. Feel free to reach out to me!
+I am currently doing research in Machine Learning, but I am also excited about opportunities in
+other career options like Software Engineer, Hardware Engineer, and
+Quantitative Developer.
+
+This website will try to keep track of what I've been doing in College.
+You can find my web [Resume](/resume) here. I will be updating this frequently. Feel free to reach out to me!
 
 <!-- 
 This is the home page. It can be used for a short introduction. [Click here](/resume) to see the full CV, and [here](/cv.pdf) to download a print version. The theme also ships with a blog: [click here](/posts) to scroll posts from the most recent. Finally, [click here](/404) to see a page that can't be found.
