@@ -1,12 +1,8 @@
 # site settings
 
 title: Ethan Hsu
-# description: Jekyll theme for a beautiful online CV
-# taglong: Jekyll theme for a beautiful online CV
-# tagshort: Jekyll theme
-# url: https://cvless.netlify.app
+description: Ethan Hsu online resume
 baseurl: ""
-permalink: pretty
 repo: https://github.com/EtHsu0/EtHsu0.github.io
 
 # author settings
