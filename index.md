@@ -10,9 +10,9 @@ I am a Junior studying in <span id="index_major" style="text-decoration:underlin
 
 I am currently doing research in Machine Learning, but I am also excited about opportunities in
 other career options like Software Engineer, Hardware Engineer, and
-Quantitative Developer.
+Quantitative Developer. In addition, I'm actively exploring interesting fields such as Quantum Computing and Robotics.
 
-This website will try to keep track of what I've been doing in College.
+This website will try to keep track of what I've been doing.
 You can find my web [Resume](/resume) here. I will be updating this frequently. Feel free to reach out to me!
 
 <!-- 

@@ -54,10 +54,10 @@ navigation_weight: 2
 
  * Advised by [Aahlad Puli](https://aahladmanas.github.io/) and worked on interesting topics in Probablistic Machine Learning such as **Spurious Correlation** and **Distributed Robust Optimization**.
  * Conducted experiments using **PyTorch** on investigating the effectiveness of **Empirical Risk Minimization** (ERM) method in the situation where datasets are not guarantee to be Independent and Identically Distributed (IID).
+ * Investigated in healthcare data such as Electrocardiography (ECGs) and running different methods to mitigate bias and inaccuracies based on gender and ages.
 
-#### Summer Research Internship @ Tufts
+#### Summer Research Experience for Undegraduate (REU) @ Tufts
 ##### Tufts University T-TRIPODS &emsp;(Jun 2023 - Aug 2023)
-
  * Worked at the [Assistive Agent Behavior and Learning Lab](https://aabl.cs.tufts.edu/) and mentored by [Prof. Elaine Short](https://engineering.tufts.edu/cs/people/faculty/elaine-short)
  * Carried out a research project on developing innovative solutions for social robots navigation and companion following robots.
  * Designed a workflow that includes data collection from sensors, data processing in **Python**, model training using **PyTorch**, and robot programming with **ROS**.
@@ -88,5 +88,5 @@ navigation_weight: 2
  support features such as audience display and voting systems.
  * Designed and built backend with **GraphQL** and **MongoDB** on the new version
  of the existing software.
- * Improved and Implemented new UI on frontend with **Figma** and **ReactJS**.
+ * Improved and implemented new UI on frontend with **Figma** and **ReactJS**.
 
