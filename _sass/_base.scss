@@ -1,3 +1,8 @@
+// * {
+//     background: #000 !important;
+//     color: #0f0 !important;
+//     outline: solid #f00 1px !important;
+//   }
 body {
   
   font-family: var(--type-serif);
@@ -52,7 +57,7 @@ a.active {
 header {
   display: flex;
   justify-content: space-between;
-  margin-top: 1.5em;
+  margin-top: 3.5em;
   margin-bottom: 2em;
 }
 

@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2023/06/29/on-the-website/</loc>
+<loc>http://localhost:4000/2023/06/29/on-the-website.html</loc>
 <lastmod>2023-06-29T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/education/</loc>
+<loc>http://localhost:4000/2023/08/11/diamonds-reu.html</loc>
+<lastmod>2023-08-11T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/coursework.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/resume/</loc>
+<loc>http://localhost:4000/resume.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/post_list.html</loc>
 </url>
 </urlset>

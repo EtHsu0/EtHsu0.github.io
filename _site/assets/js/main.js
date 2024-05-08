@@ -8,7 +8,7 @@ document.addEventListener(
   false
 );
 
-const majors = ["Electrical and Computer Engineering", "Computer Science", "Mathematics", "Computer Engineering", "Machine Learning"]
+const majors = ["Computer Science", "Electrical and Computer Engineering", "Machine Learning", "Mathematics"]
 function changeMajor() {
     const majorElement = document.getElementById("index_major");
     let index = 1;

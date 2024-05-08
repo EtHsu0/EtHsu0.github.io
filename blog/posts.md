@@ -8,4 +8,3 @@ pagination:
 
 {% include postlist.html %}
 {% include pagination.html %}
-

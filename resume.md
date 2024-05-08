@@ -1,12 +1,8 @@
 ---
-layout: resume
+layout: page
 title: Resume
 navigation_weight: 2
 ---
-<!-- <script
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-  type="text/javascript">
-</script> -->
 # Resume
 
 {% include contact.html %}
@@ -26,7 +22,11 @@ navigation_weight: 2
       <li><b>Computer Science</b></li>
     </ul>
   </p>
-  <!-- <p> GPA: 4.0/4.0 </p> -->
+  <p style="margin-bottom:5px">Minor:  <ul>
+      <li><b>Mathematics</b></li>
+    </ul>
+  </p>
+  <p> GPA: 3.97/4.0 </p>
 </div>
 {: .message }
 
@@ -49,22 +49,30 @@ navigation_weight: 2
 
 ## Experience
 ---
-#### Undergraduate Research @ NYU
-##### New York University Courant Institute of Mathematical Science &emsp; (Sep 2022 - Present)
+#### Software Engineering Internship @ Capital One
+Capital One -- Richmond, VA  
+(Jun 2024 - Aug 2024)
 
- * Advised by [Aahlad Puli](https://aahladmanas.github.io/) and worked on interesting topics in Probablistic Machine Learning such as **Spurious Correlation** and **Distributed Robust Optimization**.
+#### Undergraduate Research @ NYU
+Remote -- New York University Courant Institute of Mathematical Sciences  
+(Sep 2022 - Feb 2024)
+
+ * Mentored by [Aahlad Puli](https://aahladmanas.github.io/) and worked on interesting topics in Probabilistic Machine Learning.
  * Conducted experiments using **PyTorch** on investigating the effectiveness of **Empirical Risk Minimization** (ERM) method in the situation where datasets are not guarantee to be Independent and Identically Distributed (IID).
  * Investigated in healthcare data such as Electrocardiography (ECGs) and running different methods to mitigate bias and inaccuracies based on gender and ages.
 
-#### Summer Research Experience for Undegraduate (REU) @ Tufts
-##### Tufts University T-TRIPODS &emsp;(Jun 2023 - Aug 2023)
- * Worked at the [Assistive Agent Behavior and Learning Lab](https://aabl.cs.tufts.edu/) and mentored by [Prof. Elaine Short](https://engineering.tufts.edu/cs/people/faculty/elaine-short)
- * Carried out a research project on developing innovative solutions for social robots navigation and companion following robots.
- * Designed a workflow that includes data collection from sensors, data processing in **Python**, model training using **PyTorch**, and robot programming with **ROS**.
+#### Summer Research Internship (REU) @ Tufts
+Medford MA -- Tufts University T-TRIPODS  
+(Jun 2023 - Aug 2023)
+
+* Worked at the [Assistive Agent Behavior and Learning Lab](https://aabl.cs.tufts.edu/) and mentored by [Prof. Elaine Short](https://engineering.tufts.edu/cs/people/faculty/elaine-short)
+* Carried out a research project on developing innovative solutions for social robots navigation and companion following robots.
+* Designed a workflow that includes data collection from sensors, data processing in **Python**, model training using **PyTorch**, and robot programming with **ROS**.
 
 
 #### Teaching Assistant @ Tufts
-##### Tufts University Department of Computer Science <br>(Sep 2022 - Aug 2023)
+Medford MA / Remote, Tufts University Department of Computer Science  
+(Sep 2022 - Aug 2023)
 
  * Sole Teaching Assistant for Database Systems (Summer 2023) and Database Systems for master students (Spring 2023). 
  * Teaching Assistant for Algorithms during Summer 2023 and Spring 2023 and Algorithms for master students in Fall 2022.
@@ -73,8 +81,9 @@ navigation_weight: 2
      * Grading assignments and exams.
      * Support the instructor on logistics.
 
-#### Summer Research Program @ NYU
-##### New York University Courant Institute of Mathematical Sciences <br>(Jun 2022 - Aug 2022)
+#### Summer Research Internship (Pathway to AI) @ NYU
+New York City, NY -- New York University Courant Institute of Mathematical Sciences  
+(Jun 2022 - Aug 2022)
 
  * Participated in intensive research training on fundamental concepts in AI and Machine Learning
  * Developed practical skills with **Scikit-learn**, **TensorFlow**, and **PyTorch** by implementing
@@ -82,11 +91,11 @@ navigation_weight: 2
  * Shadowed over multiple research labs in diverse topics such as **Natural Language Processing** and **Interpretable Machine Learning**.
 
 #### Software Developing Project @ Munative
-##### Munative Team
+Remote -- Munative Team  
+(July 2020 - July 2022)
 
  * Worked with a small team dedicated to build conference tools that 
  support features such as audience display and voting systems.
  * Designed and built backend with **GraphQL** and **MongoDB** on the new version
  of the existing software.
  * Improved and implemented new UI on frontend with **Figma** and **ReactJS**.
-
