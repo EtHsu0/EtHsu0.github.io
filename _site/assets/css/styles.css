@@ -73,6 +73,19 @@ img { display: block; max-width: 100%; margin: 1em 0; border-radius: 0.25em; }
 
 table.table { color: var(--color-text); }
 
+.timeline { position: relative; }
+
+.timeline-event { display: flex; align-items: flex-start; margin-bottom: 0px; }
+
+.dot { width: 20px; height: 20px; border-radius: 50%; background-color: var(--color-text); margin-right: 20px; margin-top: 55px; }
+
+.content { flex: 1; }
+
+.timeline-event:last-child { margin-bottom: 0; }
+
+/* Connecting lines */
+.timeline-event:not(:last-child)::after { content: ''; position: absolute; top: 55px; /* Adjust this value to align with the dot */ left: 10px; /* Adjust this value to align with the dot */ width: 2px; height: calc(100% - 20px); /* Adjust this value to cover the entire height */ background-color: var(--color-text); }
+
 pre, code { font-family: var(--type-mono); }
 
 .highlight { padding: 0 1em; border-radius: 0.25em; color: var(--color-chunk); }
@@ -132,7 +145,7 @@ a.reversefootnote:focus, a.reversefootnote:hover { font-weight: 700; border: non
 .fullscreen { min-height: 100vh; }
 .fullscreen h1, .fullscreen h2 { color: var(--color-particles-text); }
 
-.particles-photo { width: 50%; border-radius: 50%; margin: auto; margin-bottom: 0.5em; }
+.particles-photo { width: 30%; border-radius: 50%; margin: auto; margin-bottom: 0.5em; opacity: 0.8; }
 
 .particles-title { margin: 0; font-size: 2.5em; font-weight: 500; white-space: nowrap; }
 

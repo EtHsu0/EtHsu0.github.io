@@ -59,3 +59,8 @@ pagination:
   sort_reverse: true
   permalink: /blog/page:num/
   title: ":title &middot; Page :num"
+
+collections:
+  timeline:
+    output: True
+    permalink: /:collection/:path/

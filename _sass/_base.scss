@@ -101,3 +101,42 @@ img {
 table.table {
   color: var(--color-text);
 }
+
+.timeline {
+    position: relative;
+  }
+  
+  .timeline-event {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 0px;
+  }
+  
+  .dot {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: var(--color-text);
+    margin-right: 20px;
+    margin-top: 55px;
+  }
+  
+  .content {
+    flex: 1;
+  }
+  
+  .timeline-event:last-child {
+    margin-bottom: 0;
+  }
+  
+  /* Connecting lines */
+  .timeline-event:not(:last-child)::after {
+    content: '';
+    position: absolute;
+    top: 55px; /* Adjust this value to align with the dot */
+    left: 10px; /* Adjust this value to align with the dot */
+    width: 2px;
+    height: calc(100% - 20px); /* Adjust this value to cover the entire height */
+    background-color: var(--color-text);
+  }
+  
